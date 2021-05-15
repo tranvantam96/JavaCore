@@ -1,0 +1,12 @@
+VM1 - Tran Van Tam - 25 - Bac Ninh - IT - 8000000
+VM2 - Nguyen Van Bac - 23 - Bac Giang - IT - 7000000
+VM3 - Ta Van Cuong - 24 - Ha Noi - IT - 9000000
+VM4 - Phan Thi Hoa - 27 - Ha Nam - Accout - 10000000
+VM5 - Nguyen Thi Tham - 28 - Ha Noi - Accout - 10000000
+VM6 - Nguyen Thi Hien - 25 - Ninh Binh - Accout - 8000000
+VM7 - Vu Thi Nga - 24 - Ba Vi - Sale - 7000000
+VM8 - Hoang Thi Ngoc Anh - 26 - Bac Giang - Sale - 9000000
+VM9 - Nguyen Van Hung - 25 - Bac Ninh - Sale - 8000000
+VM10 - Vi Van Hung - 28 - Nghe An - Purchase - 12000000
+VM11 - Tran Van Hai - 29 - Bac Giang - Purchase - 11000000
+VM12 - Duong Thanh Dai - 23 - Bac Giang - Purchase - 10000000
